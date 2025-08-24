@@ -1,5 +1,4 @@
 # AI-Powered-Conversational-Search-UI
-##AI-Powered Conversational Search UI
 A modern web application that lets data teams query, explore, and visualize data using an AI-powered conversational interface.
 
 ## Features
@@ -14,19 +13,7 @@ Accessible, clean and responsive UI (React/TypeScript)
 Sample backend proxy for OpenAI API calls (Node.js/Express)
 
 ## Folder Structure
-project-root/
-  ├── client/        
-  │   ├── src/
-  │   │   ├── App.tsx
-  │   │   ├── components/
-  │   │   │   ├── ChatWindow.tsx
-  │   │   │   ├── DataCard.tsx
-  │   │   │   ├── MessageInput.tsx
-  │   └── package.json
-  ├── server/       
-  │   ├── index.js
-  │   └── package.json
-  └── README.md
+<pre> ``` project-root/ ├── client/ # React/TypeScript frontend │ ├── src/ │ │ ├── App.tsx │ │ ├── components/ │ │ │ ├── ChatWindow.tsx │ │ │ ├── DataCard.tsx │ │ │ ├── MessageInput.tsx │ └── package.json ├── server/ # Node.js/Express backend │ ├── index.js │ └── package.json └── README.md ``` </pre>
   ## Getting Started
 # Prerequisites
 Node.js (v14+ recommended)
