@@ -13,7 +13,21 @@ Accessible, clean and responsive UI (React/TypeScript)
 Sample backend proxy for OpenAI API calls (Node.js/Express)
 
 ## Folder Structure
-<pre> ``` project-root/ ├── client/ # React/TypeScript frontend │ ├── src/ │ │ ├── App.tsx │ │ ├── components/ │ │ │ ├── ChatWindow.tsx │ │ │ ├── DataCard.tsx │ │ │ ├── MessageInput.tsx │ └── package.json ├── server/ # Node.js/Express backend │ ├── index.js │ └── package.json └── README.md ``` </pre>
+```txt
+project-root/
+  ├── client/        # React/TypeScript frontend
+  │   ├── src/
+  │   │   ├── App.tsx
+  │   │   ├── components/
+  │   │   │   ├── ChatWindow.tsx
+  │   │   │   ├── DataCard.tsx
+  │   │   │   ├── MessageInput.tsx
+  │   └── package.json
+  ├── server/        # Node.js/Express backend
+  │   ├── index.js
+  │   └── package.json
+  └── README.md
+
   ## Getting Started
 # Prerequisites
 Node.js (v14+ recommended)
