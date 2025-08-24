@@ -27,7 +27,7 @@ project-root/
   │   ├── index.js
   │   └── package.json
   └── README.md
-
+```
   ## Getting Started
 # Prerequisites
 Node.js (v14+ recommended)
